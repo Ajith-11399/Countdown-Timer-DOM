@@ -1,6 +1,6 @@
 # This repository contains a Countdown-Timer-DOM task
 
-<p>This task is completed by using the tools are:</p>
+<h3>This task is completed by using the tools are:</h3>
 
 <ul>
 <li>DOM</li>
